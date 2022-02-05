@@ -32,48 +32,420 @@ Topics for the lectures are as follows.
 
 Instructors: TB = Dr. Taft Broome
 
-| Lec # | Topics | INSTRUCTORS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1: Theory**{{< /td-colspan >}} |||
-| 1 | Introduction to the Course: Purpose, Objectives, Scope, Methods, Discussion | TB |
-| 2 | Introduction to Ethics I | TB |
-| 3 | Introduction to Ethics II; Initial Discussion of B. F. Goodrich Case | TB |
-| 4 | Introduction to Philosophy of Engineering I | Prof. Joel Moses |
-| 5 | Introduction to Philosophy of Engineering II | TB |
-| 6 | Introduction to Engineering Ethics: Codes of Ethics, Whistle Blowing, Case Study Methodology | TB |
-| 7 | Case Studies: Finish Challenger Case; Ford Pinto Case | TB |
-| {{< td-colspan 3 >}}**Part 2: Case Studies**{{< /td-colspan >}} |||
-| 8 | Case Studies: Chernobyl, Three Mile Island | TB |
-| 9 | Case Studies (cont.): News Articles | TB |
-| 10 | Case Studies: Chernobyl, Three Mile Island (cont.) | TB |
-| 11 | Case Studies: B. F. Goodrich A7D Air Force Brakes | TB |
-| 12 | First Principles of Engineering Ethics | TB |
-|  | Mid Term |  |
-| 13 | Solving Ethical Problems: Discussion of Heroes, Journeys, and Virtue in Mythology | TB |
-| 14 | Individual, Professional, and Institutional Values | Prof. Sheila Widnall |
-| 15 | Leadership in Engineering and Industry | TB |
-| 16 | Competency with Good Character | TB |
-| 17 | Recap of Semester so Far; Introduction to Codes of Ethics | TB |
-| 18 | Codes of Ethics (cont.) | TB |
-| 19 | Safety; Introduction to Narrative Ethics | TB |
-| 20 | Ethical Terminology | TB |
-| {{< td-colspan 3 >}}**Part 3: Research Projects**{{< /td-colspan >}} |||
-| 21 | Planning for Public Seminar; Terminology (cont.) | TB |
-| 22 | Public Seminar on Narrative Ethics  {{< br >}}  {{< br >}}Purpose: to initiate a systematic approach to the problems of identifying cross-cultural issues in the ethical education of science and engineering students, and extract from these issues lessons that may enhance the research experience in the globalization process | TB with Prof. Segun Gbadegesin, Howard University |
-| 23 | Human Flourishing | TB |
-| 24 | Student Presentation | Students |
-|  | Final Exam: Final Written Report |  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course: Purpose, Objectives, Scope, Methods, Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Ethics I
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Ethics II; Initial Discussion of B. F. Goodrich Case
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Philosophy of Engineering I
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Joel Moses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Philosophy of Engineering II
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Engineering Ethics: Codes of Ethics, Whistle Blowing, Case Study Methodology
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Case Studies: Finish Challenger Case; Ford Pinto Case
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: Case Studies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Case Studies: Chernobyl, Three Mile Island
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Case Studies (cont.): News Articles
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Case Studies: Chernobyl, Three Mile Island (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Case Studies: B. F. Goodrich A7D Air Force Brakes
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+First Principles of Engineering Ethics
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mid Term
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Solving Ethical Problems: Discussion of Heroes, Journeys, and Virtue in Mythology
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Individual, Professional, and Institutional Values
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sheila Widnall
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership in Engineering and Industry
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Competency with Good Character
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Recap of Semester so Far; Introduction to Codes of Ethics
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Codes of Ethics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Safety; Introduction to Narrative Ethics
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Ethical Terminology
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 3: Research Projects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Planning for Public Seminar; Terminology (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Public Seminar on Narrative Ethics  
+  
+Purpose: to initiate a systematic approach to the problems of identifying cross-cultural issues in the ethical education of science and engineering students, and extract from these issues lessons that may enhance the research experience in the globalization process
+{{< tdclose >}}
+{{< tdopen >}}
+TB with Prof. Segun Gbadegesin, Howard University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Human Flourishing
+{{< tdclose >}}
+{{< tdopen >}}
+TB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam: Final Written Report
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 10% |
-| Homework | 25% |
-| Early Presentation | 20% |
-| Final Presentation | 20% |
-| Final Written Report | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Early Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Written Report
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Instructor Biography
 --------------------
